@@ -17,11 +17,11 @@ assignees: ''
 
 > an example: `solidity`, `react`, `hardhat`
 
-**Repo for this challenge: **
+**Repo for this challenge:**
 
 > an example:
 > [challenge-0-simple-nft](https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft)
 
 **Bounty for this challenge:**
 
-> an  example: `1 ETH`, if there is not bounty, just ignore this one)
+> an  example: `1 ETH`, if there is not bounty, just ignore this one!)
