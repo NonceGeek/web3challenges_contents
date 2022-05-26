@@ -26,6 +26,6 @@ assignees: ''
 
 > an  example: `1 ETH`, if there is not bounty, just ignore this one!)
 
-* **related link:
+* **related link:**
 
 > if there any related link
