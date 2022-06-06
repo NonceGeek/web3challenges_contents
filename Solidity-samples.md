@@ -26,7 +26,9 @@
 
 [多签存证案例代码](samples/evidence)
 
+### 7. tokens兑换
 
+[tokens兑换代码](samples/exchange)
 
 
 
